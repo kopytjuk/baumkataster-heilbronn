@@ -1,0 +1,761 @@
+"Farbe";"Gemeinde";"Ort";"Stadtteil";"Stadtviertel";"Straße";"Objekt";"Objekt Nr.";"Alter";"Baum ID";"Bemerkungen";"Deutsche Bezeichnung";"Geburtsjahr";"Gefällt";"Höhe [m]";"Inspektor";"Kronendurchmesser [m]";"Nr.";"Pflanzdatum";"Stammumfang [m]";"Status";"Tage bis zur Insp.";"Verkehrssicherheit";"Wissenschaftliche Bezeichnung";"letzte Inspektion";"Anteil an der Fläche [%]";"Anteil an der Fläche [m²]";"Fläche [m²]";"Objektbeschreibung";"Objektname";"Objekttyp";"eigener Anteil an der Fläche [%]"
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"33";"BKA-50824";"";"Japanischer Schnurbaum";"1986";"";"5-10m";"Herr Hetzel - HN67038";8,000;"50824";"";1,090;"Bestand";-73;"";"Sophora japonica";"1528450986";0;0;0;"Baum-ID:  BKA-50824
+Baumart: Laubbaum
+Sophora japonica
+Japanischer Schnurbaum
+Stammumfang:   1.09m
+Kronendurchmesser:  8m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA-50824";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"20";"BKA-50823";"";"Japanischer Schnurbaum";"1999";"";"5-10m";"Herr Hetzel - HN67038";6,000;"50823";"";0,860;"Bestand";-73;"";"Sophora japonica";"1528451122";0;0;0;"Baum-ID:  BKA-50823
+Baumart: Laubbaum
+Sophora japonica
+Japanischer Schnurbaum
+Stammumfang:   .86m
+Kronendurchmesser:  6m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA-50823";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"78";"BKA-50837";"";"Gewöhnliche Eibe";"1941";"";"bis-5m";"GTI-Administrator";5,000;"50837";"";1,279;"Bestand";3195;"";"Taxus baccata";"978303600";0;0;0;"Baum-ID:  BKA-50837
+Baumart: Nadelbaum
+Taxus baccata
+Gewöhnliche Eibe
+Stammumfang:   1.279m
+Kronendurchmesser:  5m
+Höhe: bis-5m
+letzte Änderung: 22.12.2005";"Baum: BKA-50837";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"75";"BKA-50836";"";"Gewöhnliche Kiefer";"1944";"";"bis-5m";"GTI-Administrator";4,000;"50836";"";1,030;"Bestand";3195;"";"Pinus sylvestris";"978303600";0;0;0;"Baum-ID:  BKA-50836
+Baumart: Nadelbaum
+Pinus sylvestris
+Gewöhnliche Kiefer
+Stammumfang:   1.03m
+Kronendurchmesser:  4m
+Höhe: bis-5m
+letzte Änderung: 29.02.2012";"Baum: BKA-50836";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"20";"BKA-50822";"";"Japanischer Schnurbaum";"1999";"";"5-10m";"Herr Hetzel - HN67038";7,000;"50822";"";0,920;"Bestand";-73;"";"Sophora japonica";"1528451233";0;0;0;"Baum-ID:  BKA-50822
+Baumart: Laubbaum
+Sophora japonica
+Japanischer Schnurbaum
+Stammumfang:   .92m
+Kronendurchmesser:  7m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA-50822";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"20";"BKA-50821";"";"Japanischer Schnurbaum";"1999";"";"5-10m";"Herr Hetzel - HN67038";7,000;"50821";"";0,830;"Bestand";-73;"";"Sophora japonica";"1528451359";0;0;0;"Baum-ID:  BKA-50821
+Baumart: Laubbaum
+Sophora japonica
+Japanischer Schnurbaum
+Stammumfang:   .83m
+Kronendurchmesser:  7m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA-50821";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"61";"BKA-50834";"";"Säulen-Eiche";"1958";"";"10-15m";"GTI-Administrator";4,000;"50834";"";1,181;"Bestand";3195;"";"Quercus robur `Fastigata`";"978303600";0;0;0;"Baum-ID:  BKA-50834
+Baumart: Laubbaum
+Quercus robur `Fastigata`
+Säulen-Eiche
+Stammumfang:   1.181m
+Kronendurchmesser:  4m
+Höhe: 10-15m
+letzte Änderung: 22.12.2005";"Baum: BKA-50834";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5322";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73612";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528449468";0;0;0;"Baum-ID:  BKA~BAUM-5322
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5322";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5321";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73611";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528449373";0;0;0;"Baum-ID:  BKA~BAUM-5321
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5321";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5320";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73610";"01.01.2014";0,560;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528449257";0;0;0;"Baum-ID:  BKA~BAUM-5320
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .56m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5320";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5319";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73609";"01.01.2014";0,560;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528449153";0;0;0;"Baum-ID:  BKA~BAUM-5319
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .56m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5319";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5318";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73608";"01.01.2014";0,550;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528449028";0;0;0;"Baum-ID:  BKA~BAUM-5318
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .55m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5318";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5317";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73607";"01.01.2014";0,470;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528448907";0;0;0;"Baum-ID:  BKA~BAUM-5317
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .47m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5317";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"23";"BKA~BAUM-5316";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73606";"01.01.2014";0,560;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528448774";0;0;0;"Baum-ID:  BKA~BAUM-5316
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .56m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5316";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5371";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73658";"01.01.2014";0,660;"Bestand";-73;"";"Tilia tomentosa";"1528448628";0;0;0;"Baum-ID:  BKA~BAUM-5371
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .66m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5371";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5370";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73657";"01.01.2014";0,650;"Bestand";-73;"";"Tilia tomentosa";"1528448507";0;0;0;"Baum-ID:  BKA~BAUM-5370
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .65m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5370";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5369";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73656";"01.01.2014";0,630;"Bestand";-73;"";"Tilia tomentosa";"1528448246";0;0;0;"Baum-ID:  BKA~BAUM-5369
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .63m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5369";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5368";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73655";"01.01.2014";0,540;"Bestand";-73;"";"Tilia tomentosa";"1528448104";0;0;0;"Baum-ID:  BKA~BAUM-5368
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5368";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5367";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73654";"01.01.2014";0,580;"Bestand";-73;"";"Tilia tomentosa";"1528447995";0;0;0;"Baum-ID:  BKA~BAUM-5367
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .58m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5367";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5366";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73653";"01.01.2014";0,620;"Bestand";-73;"";"Tilia tomentosa";"1528447879";0;0;0;"Baum-ID:  BKA~BAUM-5366
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5366";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5352";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73639";"01.01.2014";0,640;"Bestand";-74;"";"Tilia tomentosa";"1528376620";0;0;0;"Baum-ID:  BKA~BAUM-5352
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .64m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5352";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5351";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73638";"01.01.2014";0,620;"Bestand";-74;"";"Tilia tomentosa";"1528376331";0;0;0;"Baum-ID:  BKA~BAUM-5351
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5351";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5349";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73637";"01.01.2014";0,590;"Bestand";-74;"";"Tilia tomentosa";"1528376257";0;0;0;"Baum-ID:  BKA~BAUM-5349
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .59m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5349";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5348";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73636";"01.01.2014";0,610;"Bestand";-74;"";"Tilia tomentosa";"1528376205";0;0;0;"Baum-ID:  BKA~BAUM-5348
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .61m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5348";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5346";"";"Chinesisches Rotholz`Seridan Spire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73635";"01.01.2014";0,680;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528375056";0;0;0;"Baum-ID:  BKA~BAUM-5346
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .68m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5346";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5345";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73634";"01.01.2014";0,700;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528374984";0;0;0;"Baum-ID:  BKA~BAUM-5345
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .7m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5345";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5344";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73633";"01.01.2014";0,650;"Bestand";-408;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528374901";0;0;0;"Baum-ID:  BKA~BAUM-5344
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .65m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5344";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5343";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73632";"01.01.2014";0,660;"Bestand";-408;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528374834";0;0;0;"Baum-ID:  BKA~BAUM-5343
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .66m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5343";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5342";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";5,000;"73631";"01.01.2014";0,710;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528374469";0;0;0;"Baum-ID:  BKA~BAUM-5342
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .71m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5342";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5337";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73627";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438019";0;0;0;"Baum-ID:  BKA~BAUM-5337
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5337";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5336";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73626";"01.01.2014";0,510;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528437929";0;0;0;"Baum-ID:  BKA~BAUM-5336
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .51m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5336";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5365";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73652";"01.01.2014";0,650;"Bestand";-73;"";"Tilia tomentosa";"1528447711";0;0;0;"Baum-ID:  BKA~BAUM-5365
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .65m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5365";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5364";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73651";"01.01.2014";0,630;"Bestand";-73;"";"Tilia tomentosa";"1528447567";0;0;0;"Baum-ID:  BKA~BAUM-5364
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .63m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5364";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5363";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73650";"01.01.2014";0,620;"Bestand";-73;"";"Tilia tomentosa";"1528447435";0;0;0;"Baum-ID:  BKA~BAUM-5363
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5363";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5361";"";"Silber-Linde";"1996";"";"5-10m";"";4,000;"73648";"01.01.2014";0,640;"Bestand";;"";"Tilia tomentosa";"";0;0;0;"Baum-ID:  BKA~BAUM-5361
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .64m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5361";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5360";"";"Silber-Linde";"1996";"";"5-10m";"";4,000;"73647";"01.01.2014";0,640;"Bestand";;"";"Tilia tomentosa";"";0;0;0;"Baum-ID:  BKA~BAUM-5360
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .64m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5360";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5359";"";"Silber-Linde";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73646";"01.01.2014";0,620;"Bestand";-73;"";"Tilia tomentosa";"1528444391";0;0;0;"Baum-ID:  BKA~BAUM-5359
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5359";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5358";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73645";"01.01.2014";0,620;"Bestand";-73;"";"Tilia tomentosa";"1528444402";0;0;0;"Baum-ID:  BKA~BAUM-5358
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 19.06.2018";"Baum: BKA~BAUM-5358";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5357";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73644";"01.01.2014";0,600;"Bestand";-73;"";"Tilia tomentosa";"1528445768";0;0;0;"Baum-ID:  BKA~BAUM-5357
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .6m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 19.06.2018";"Baum: BKA~BAUM-5357";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5356";"";"Silber-Linde";"1994";"";"5-10m";"";4,000;"73643";"01.01.2014";0,610;"Bestand";;"";"Tilia tomentosa";"";0;0;0;"Baum-ID:  BKA~BAUM-5356
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .61m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 19.06.2018";"Baum: BKA~BAUM-5356";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5355";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73642";"01.01.2014";0,660;"Bestand";-73;"";"Tilia tomentosa";"1528445786";0;0;0;"Baum-ID:  BKA~BAUM-5355
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .66m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 19.06.2018";"Baum: BKA~BAUM-5355";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5354";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73641";"01.01.2014";0,620;"Bestand";-73;"";"Tilia tomentosa";"1528445805";0;0;0;"Baum-ID:  BKA~BAUM-5354
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5354";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5353";"";"Silber-Linde";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73640";"01.01.2014";0,620;"Bestand";-74;"";"Tilia tomentosa";"1528376547";0;0;0;"Baum-ID:  BKA~BAUM-5353
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5353";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5335";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73625";"01.01.2014";0,510;"Bestand";-74;"";"Tilia cordata `Greenspire`";"1528377051";0;0;0;"Baum-ID:  BKA~BAUM-5335
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .51m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5335";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5334";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73624";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442687";0;0;0;"Baum-ID:  BKA~BAUM-5334
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5334";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5333";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73623";"01.01.2014";0,500;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442625";0;0;0;"Baum-ID:  BKA~BAUM-5333
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .5m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5333";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5332";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73622";"01.01.2014";0,480;"Bestand";-407;"";"Tilia cordata `Greenspire`";"1528442521";0;0;0;"Baum-ID:  BKA~BAUM-5332
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .48m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5332";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5331";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73621";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442445";0;0;0;"Baum-ID:  BKA~BAUM-5331
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5331";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5330";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73620";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442385";0;0;0;"Baum-ID:  BKA~BAUM-5330
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5330";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5329";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73619";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442229";0;0;0;"Baum-ID:  BKA~BAUM-5329
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5329";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5328";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73618";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442194";0;0;0;"Baum-ID:  BKA~BAUM-5328
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5328";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5327";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73617";"01.01.2014";0,480;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528442070";0;0;0;"Baum-ID:  BKA~BAUM-5327
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .48m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5327";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5326";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73616";"01.01.2014";0,620;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528441973";0;0;0;"Baum-ID:  BKA~BAUM-5326
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .62m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5326";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5325";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73615";"01.01.2014";0,470;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528441878";0;0;0;"Baum-ID:  BKA~BAUM-5325
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .47m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5325";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5324";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73614";"01.01.2014";0,500;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528441775";0;0;0;"Baum-ID:  BKA~BAUM-5324
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .5m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5324";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"25";"BKA~BAUM-5323";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73613";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528441610";0;0;0;"Baum-ID:  BKA~BAUM-5323
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5323";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"21";"BKA~BAUM-8418";"";"Winterlinde `Greenspire`";"1998";"";"bis-5m";"Herr Hetzel - HN67038";3,000;"76761";"30.04.2018";0,440;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528439970";0;0;0;"Baum-ID:  BKA~BAUM-8418
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .44m
+Kronendurchmesser:  3m
+Höhe: bis-5m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-8418";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5400";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73685";"01.01.2014";0,680;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528375126";0;0;0;"Baum-ID:  BKA~BAUM-5400
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .68m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 15.08.2018";"Baum: BKA~BAUM-5400";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5399";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";5,000;"73684";"01.01.2014";0,720;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528375872";0;0;0;"Baum-ID:  BKA~BAUM-5399
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .72m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5399";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5398";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73683";"01.01.2014";0,690;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528375964";0;0;0;"Baum-ID:  BKA~BAUM-5398
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .69m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5398";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5397";"";"Chinesisches Rotholz`Seridan Spire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";5,000;"73682";"01.01.2014";0,710;"Bestand";-74;"";"Metasequoia glybtostroboides`Seridan Spire`";"1528376027";0;0;0;"Baum-ID:  BKA~BAUM-5397
+Baumart: Nadelbaum
+Metasequoia glybtostroboides`Seridan Spire`
+Chinesisches Rotholz`Seridan Spire`
+Stammumfang:   .71m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5397";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5395";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73681";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528446805";0;0;0;"Baum-ID:  BKA~BAUM-5395
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5395";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5394";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73680";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438351";0;0;0;"Baum-ID:  BKA~BAUM-5394
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5394";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5393";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73679";"01.01.2014";0,510;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438443";0;0;0;"Baum-ID:  BKA~BAUM-5393
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .51m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5393";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5392";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73678";"01.01.2014";0,550;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438490";0;0;0;"Baum-ID:  BKA~BAUM-5392
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .55m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5392";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5373";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73660";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528451689";0;0;0;"Baum-ID:  BKA~BAUM-5373
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5373";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"13";"BKA~BAUM-8614";"";"Silber-Linde";"2006";"";"bis-5m";"Herr Hetzel - HN67038";3,000;"76966";"01.01.2016";0,420;"Bestand";-73;"";"Tilia tomentosa";"1528453032";0;0;0;"Baum-ID:  BKA~BAUM-8614
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .42m
+Kronendurchmesser:  3m
+Höhe: bis-5m
+letzte Änderung: 11.06.2018";"Baum: BKA~BAUM-8614";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"13";"BKA~BAUM-8613";"";"Silber-Linde";"2006";"";"bis-5m";"Herr Hetzel - HN67038";3,000;"76965";"01.01.2016";0,430;"Bestand";-73;"";"Tilia tomentosa";"1528452896";0;0;0;"Baum-ID:  BKA~BAUM-8613
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .43m
+Kronendurchmesser:  3m
+Höhe: bis-5m
+letzte Änderung: 11.06.2018";"Baum: BKA~BAUM-8613";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"13";"BKA~BAUM-8612";"";"Silber-Linde";"2006";"";"bis-5m";"Herr Hetzel - HN67038";3,000;"76964";"06.04.2016";0,410;"Bestand";-73;"";"Tilia tomentosa";"1528452242";0;0;0;"Baum-ID:  BKA~BAUM-8612
+Baumart: Laubbaum
+Tilia tomentosa
+Silber-Linde
+Stammumfang:   .41m
+Kronendurchmesser:  3m
+Höhe: bis-5m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-8612";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5391";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";0,400;"73677";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438570";0;0;0;"Baum-ID:  BKA~BAUM-5391
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  .4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5391";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5390";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73676";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528438634";0;0;0;"Baum-ID:  BKA~BAUM-5390
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5390";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5389";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73675";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528446253";0;0;0;"Baum-ID:  BKA~BAUM-5389
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5389";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5388";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73674";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528446148";0;0;0;"Baum-ID:  BKA~BAUM-5388
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5388";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5387";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73673";"01.01.2014";0,550;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528446044";0;0;0;"Baum-ID:  BKA~BAUM-5387
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .55m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5387";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5386";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73672";"01.01.2014";0,570;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445909";0;0;0;"Baum-ID:  BKA~BAUM-5386
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .57m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5386";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5385";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73671";"01.01.2014";0,570;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445723";0;0;0;"Baum-ID:  BKA~BAUM-5385
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .57m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5385";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5384";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73670";"01.01.2014";0,570;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445612";0;0;0;"Baum-ID:  BKA~BAUM-5384
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .57m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5384";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5383";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73669";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445510";0;0;0;"Baum-ID:  BKA~BAUM-5383
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5383";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5382";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73668";"01.01.2014";0,530;"Bestand";-47;"";"Tilia cordata `Greenspire`";"1530704610";0;0;0;"Baum-ID:  BKA~BAUM-5382
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5382";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5381";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73667";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445223";0;0;0;"Baum-ID:  BKA~BAUM-5381
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5381";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"23";"BKA~BAUM-5380";"";"Winterlinde `Greenspire`";"1996";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73666";"01.01.2014";0,570;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528445246";0;0;0;"Baum-ID:  BKA~BAUM-5380
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .57m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5380";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5379";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73665";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528447218";0;0;0;"Baum-ID:  BKA~BAUM-5379
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5379";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5378";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73664";"01.01.2014";0,520;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528447121";0;0;0;"Baum-ID:  BKA~BAUM-5378
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .52m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5378";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5376";"";"Japanischer Schnurbaum";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73663";"01.01.2014";0,510;"Bestand";-73;"";"Sophora japonica";"1528450899";0;0;0;"Baum-ID:  BKA~BAUM-5376
+Baumart: Laubbaum
+Sophora japonica
+Japanischer Schnurbaum
+Stammumfang:   .51m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5376";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5375";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73662";"01.01.2014";0,530;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528440129";0;0;0;"Baum-ID:  BKA~BAUM-5375
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .53m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5375";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"25";"BKA~BAUM-5374";"";"Winterlinde `Greenspire`";"1994";"";"5-10m";"Herr Hetzel - HN67038";4,000;"73661";"01.01.2014";0,540;"Bestand";-73;"";"Tilia cordata `Greenspire`";"1528451606";0;0;0;"Baum-ID:  BKA~BAUM-5374
+Baumart: Laubbaum
+Tilia cordata `Greenspire`
+Winterlinde `Greenspire`
+Stammumfang:   .54m
+Kronendurchmesser:  4m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA~BAUM-5374";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Südoststadt";"Allee";"";"";"19";"BKA-68568";"";"Ahornblättrige Platane";"2000";"";"5-10m";"Herr Hetzel - HN67038";5,000;"68568";"01.01.2010";0,510;"Bestand";-73;"";"Platanus x acerifolia ";"1528440508";0;0;0;"Baum-ID:  BKA-68568
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   .51m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 11.06.2018";"Baum: BKA-68568";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Südoststadt";"Allee";"";"";"19";"BKA-68567";"";"Ahornblättrige Platane";"2000";"";"5-10m";"Herr Hetzel - HN67038";5,000;"68567";"01.01.2010";0,470;"Bestand";-70;"";"Platanus x acerifolia ";"1528701417";0;0;0;"Baum-ID:  BKA-68567
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   .47m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 11.06.2018";"Baum: BKA-68567";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"19";"BKA-68569";"";"Ahornblättrige Platane";"2000";"";"5-10m";"Herr Hetzel - HN67038";5,000;"68569";"01.01.2010";0,470;"Bestand";-70;"";"Platanus x acerifolia ";"1528699787";0;0;0;"Baum-ID:  BKA-68569
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   .47m
+Kronendurchmesser:  5m
+Höhe: 5-10m
+letzte Änderung: 11.06.2018";"Baum: BKA-68569";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"20";"BKA-67015";"";"Blauglockenbaum";"1999";"";"5-10m";"Herr Hetzel - HN67038";7,000;"67015";"01.01.2009";1,270;"Bestand";-73;"";"Paulownia tomentosa";"1528450774";0;0;0;"Baum-ID:  BKA-67015
+Baumart: Laubbaum
+Paulownia tomentosa
+Blauglockenbaum
+Stammumfang:   1.27m
+Kronendurchmesser:  7m
+Höhe: 5-10m
+letzte Änderung: 08.06.2018";"Baum: BKA-67015";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"48";"BKA-36438";"ALT_ID: 1644A00260000";"Ahornblättrige Platane";"1971";"";"10-15m";"Herr Hetzel - HN67038";11,000;"36438";"";1,840;"Bestand";-70;"";"Platanus x acerifolia ";"1528699567";0;0;0;"Baum-ID:  BKA-36438
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   1.84m
+Kronendurchmesser:  11m
+Höhe: 10-15m
+letzte Änderung: 11.06.2018";"Baum: BKA-36438";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Südoststadt";"Allee";"";"";"46";"BKA-36505";"ALT_ID: 1644B00200000";"Ahornblättrige Platane";"1973";"";"10-15m";"Herr Hetzel - HN67038";11,000;"36505";"";1,820;"Bestand";-70;"";"Platanus x acerifolia ";"1528701122";0;0;0;"Baum-ID:  BKA-36505
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   1.82m
+Kronendurchmesser:  11m
+Höhe: 10-15m
+letzte Änderung: 11.06.2018";"Baum: BKA-36505";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"20";"BKA-65897";"";"Ahornblättrige Platane";"1999";"";"5-10m";"Herr Hetzel - HN67038";6,000;"65897";"01.01.2009";0,810;"Bestand";-70;"";"Platanus x acerifolia ";"1528699953";0;0;0;"Baum-ID:  BKA-65897
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   .81m
+Kronendurchmesser:  6m
+Höhe: 5-10m
+letzte Änderung: 11.06.2018";"Baum: BKA-65897";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Innenstadt";"Allee";"";"";"20";"BKA-65895";"";"Ahornblättrige Platane";"1999";"";"5-10m";"Herr Hetzel - HN67038";6,000;"65895";"01.01.2009";0,910;"Bestand";-70;"";"Platanus x acerifolia ";"1528700178";0;0;0;"Baum-ID:  BKA-65895
+Baumart: Laubbaum
+Platanus x acerifolia 
+Ahornblättrige Platane
+Stammumfang:   .91m
+Kronendurchmesser:  6m
+Höhe: 5-10m
+letzte Änderung: 11.06.2018";"Baum: BKA-65895";"Baum";0
+"65535";"Heilbronn";"Heilbronn";"HN Innenstadt";"Stadtgarten";"Allee";"";"";"172";"BKA-39394";"ALT_ID: 1645N00980000";"Stiel-Eiche";"1847";"";"10-15m";"GTI-Administrator";11,000;"39394";"";3,940;"Bestand";3195;"";"Quercus robur";"978303600";0;0;0;"Baum-ID:  BKA-39394
+Baumart: Laubbaum
+Quercus robur
+Stiel-Eiche
+Stammumfang:   3.94m
+Kronendurchmesser:  11m
+Höhe: 10-15m
+letzte Änderung: 22.11.2005";"Baum: BKA-39394";"Baum";0
